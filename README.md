@@ -8,4 +8,4 @@ incluye:
   },
   React Vector Icons,
   
-Utilizo Yarn como instaloador de paquetes
+Utilizo Yarn como instalador de paquetes
